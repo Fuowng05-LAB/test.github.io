@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Menu Ngang và Dọc</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav class="horizontal-menu">
+        <ul>
+            <li><a href="#">Trang chủ</a></li>
+            <li><a href="#">Giới thiệu</a></li>
+            <li><a href="#">Dịch vụ</a></li>
+            <li><a href="#">Liên hệ</a></li>
+        </ul>
+    </nav>
+    
+    <nav class="vertical-menu">
+        <ul>
+            <li><a href="#">Mục 1</a></li>
+            <li><a href="#">Mục 2</a></li>
+            <li><a href="#">Mục 3</a></li>
+            <li><a href="#">Mục 4</a></li>
+        </ul>
+    </nav>
+    
+</body>
+</html>
